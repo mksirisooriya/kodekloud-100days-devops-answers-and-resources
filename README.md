@@ -12,7 +12,7 @@ Each day’s folder includes:
 
 ---
 
-## 📅 Progress
+## Progress
 
 | Day  | Task Description | Link |
 |------|------------------|------|
@@ -22,7 +22,7 @@ Each day’s folder includes:
 
 ---
 
-## 📚 How to Use
+## How to Use
 
 1. Browse to the folder for the day you’re interested in.
 2. Follow the steps in the `README.md` file.
@@ -30,7 +30,7 @@ Each day’s folder includes:
 
 ---
 
-## 🔗 Useful References
+## Useful References
 
 - [KodeKloud – 100 Days of DevOps Challenge](https://kodekloud.com/)
 - [GNU/Linux Command Manual](https://man7.org/linux/man-pages/)
